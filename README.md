@@ -1,6 +1,6 @@
 ## 📘 Numerical Analysis
 --- 
-**Task Code: NAML-01**: [Implementation](NAML-01.py)
+**Task Code: NAML-01**: [Implementation](NMAL-01.py)
 
 
 #### 📌 Traditional Approach
