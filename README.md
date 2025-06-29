@@ -23,3 +23,4 @@
 - Improved bisection root: 1.5210937500000004, iterations: 6
 
 ---
+**Task Code: NAML-02**: [Implementation](NAML-02.py)
